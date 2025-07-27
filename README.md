@@ -11,6 +11,8 @@ This project performs statistical time series analysis and forecasting on histor
 
 <br>
 
+## Implementation
+
 ### 1. Data Preparation
 
 * Reverses the dataset for chronological ordering.
